@@ -125,3 +125,18 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add a smooth scroll*/
+html {
+  scroll-behavior: smooth;
+}
+
+/* add a slide in animation */
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
