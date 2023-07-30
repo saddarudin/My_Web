@@ -6,11 +6,11 @@
 
 import React from "react";
 
-import About from "./Components/About";
-import Footer from "./Components/Footer";
-import Header from "./Components/Header";
-import Home from "./Components/Home";
-import Portfolio from "./Components/Portfolio";
+import About from "./src/Components/About";
+import Footer from "./src/Components/Footer";
+import Header from "./src/Components/Header";
+import Home from "./src/Components/Home";
+import Portfolio from "./src/Components/Portfolio";
 
 import "./styles.css";
 
